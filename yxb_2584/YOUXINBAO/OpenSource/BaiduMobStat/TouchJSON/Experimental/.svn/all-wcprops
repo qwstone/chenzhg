@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental
+END
+CFilteringJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CFilteringJSONSerializer.h
+END
+CJSONSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CJSONSerialization.h
+END
+CJSONDeserializer_BlocksExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CJSONDeserializer_BlocksExtensions.h
+END
+CFilteringJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CFilteringJSONSerializer.m
+END
+CJSONSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CJSONSerialization.m
+END
+CJSONDeserializer_BlocksExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CJSONDeserializer_BlocksExtensions.m
+END
+CJSONSerializedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CJSONSerializedData.h
+END
+CJSONSerializedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/BaiduMobStat/TouchJSON/Experimental/CJSONSerializedData.m
+END

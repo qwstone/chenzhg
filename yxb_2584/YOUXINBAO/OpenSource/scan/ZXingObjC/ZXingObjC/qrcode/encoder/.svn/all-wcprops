@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder
+END
+ZXQRCodeMaskUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMaskUtil.h
+END
+ZXQRCodeBlockPair.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeBlockPair.m
+END
+ZXQRCodeMaskUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMaskUtil.m
+END
+ZXQRCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCode.h
+END
+ZXQRCodeEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeEncoder.h
+END
+ZXQRCodeMatrixUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMatrixUtil.h
+END
+ZXQRCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCode.m
+END
+ZXQRCodeEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeEncoder.m
+END
+ZXQRCodeBlockPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeBlockPair.h
+END
+ZXQRCodeMatrixUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMatrixUtil.m
+END

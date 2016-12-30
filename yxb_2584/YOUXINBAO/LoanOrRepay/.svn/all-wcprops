@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/yxb_ios/!svn/ver/3022/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay
+END
+LoanOrRepayBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayBaseViewController.m
+END
+DetailsAddUpDataView.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/DetailsAddUpDataView.m
+END
+PayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/PayViewController.m
+END
+QCMainLoanReceiptViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCMainLoanReceiptViewController.h
+END
+LoanOrRepayMessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayMessageViewController.h
+END
+LoandetailsTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoandetailsTableViewCell.h
+END
+PostponeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/PostponeView.h
+END
+QCMainLoanReceiptViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCMainLoanReceiptViewController.m
+END
+LoanOrRepayMessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayMessageViewController.m
+END
+LoanOrRepayFriendsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayFriendsViewController.h
+END
+LoanOrRepayFriendsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayFriendsCell.h
+END
+LoandetailsTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoandetailsTableViewCell.m
+END
+PostponeView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/PostponeView.m
+END
+BorrowingInformationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/BorrowingInformationView.h
+END
+LoanOrRepayFriendsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayFriendsViewController.m
+END
+LoanOrRepayFriendsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayFriendsCell.m
+END
+LoanOrRepayAddressbookCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayAddressbookCell.h
+END
+QCLoanCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanCell.h
+END
+BorrowingInformationView.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/BorrowingInformationView.m
+END
+LoanOrRepayAddressbookCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayAddressbookCell.m
+END
+QCLoanCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanCell.m
+END
+QCLoanReceiptViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2670/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanReceiptViewController.xib
+END
+InstallmentButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/InstallmentButton.h
+END
+LoanOrRepayListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayListViewController.h
+END
+QCLoanReceiptViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanReceiptViewController.h
+END
+LoanOrRepayListTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayListTableViewCell.h
+END
+LoanOrRepayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayViewController.h
+END
+InstallmentButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/InstallmentButton.m
+END
+LoanOrRepayListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/3001/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayListViewController.m
+END
+QCLoanReceiptViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanReceiptViewController.m
+END
+LoanDetailsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanDetailsViewController.h
+END
+LoanOrRepayTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayTableViewCell.h
+END
+LoanOrRepayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayViewController.m
+END
+LoanOrRepayListTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayListTableViewCell.m
+END
+LoanMessageTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanMessageTableViewCell.h
+END
+LoanOrRepayTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayTableViewCell.m
+END
+LoanDetailsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3022/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanDetailsViewController.m
+END
+LoanOrRepayWhiteLineCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayWhiteLineCell.h
+END
+LoanDetailsInstallmentView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanDetailsInstallmentView.h
+END
+LoanMessageTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanMessageTableViewCell.m
+END
+LoanOrRepayWhiteLineCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayWhiteLineCell.m
+END
+LoanDetailsInstallmentView.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanDetailsInstallmentView.m
+END
+QCLoanCenterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanCenterViewController.h
+END
+LoanDetaildSliderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanDetaildSliderView.h
+END
+QCLoanCenterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/QCLoanCenterViewController.m
+END
+LoanDetaildSliderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanDetaildSliderView.m
+END
+LoanOrRepayBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/LoanOrRepayBaseViewController.h
+END
+DetailsAddUpDataView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/DetailsAddUpDataView.h
+END
+PayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/LoanOrRepay/PayViewController.h
+END

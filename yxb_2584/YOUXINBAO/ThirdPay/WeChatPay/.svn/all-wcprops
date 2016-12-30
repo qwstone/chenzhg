@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay
+END
+ApiXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay/ApiXml.h
+END
+ApiXml.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay/ApiXml.mm
+END
+WXUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay/WXUtil.h
+END
+WXUtil.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay/WXUtil.mm
+END
+payRequsestHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay/payRequsestHandler.h
+END
+payRequsestHandler.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeChatPay/payRequsestHandler.mm
+END

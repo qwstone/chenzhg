@@ -1,0 +1,40 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "QCConst.h"
+    #import "UIView+ViewFrameGeometry.h"
+    #import "QCBaseTextField.h"
+//    #import "RongChat.h"
+
+    #import "QCUtils.h"
+    #import "QCBaseTableView.h"
+    #import "QCConfigTool.h"
+    #import "ProgressHUD.h"
+    #import "YXBPaymentUtils.h"
+    #import "DBManager.h"
+#endif
+
+#ifndef TARGET_OS_IOS
+#define TARGET_OS_IOS TARGET_OS_IPHONE
+#endif
+#ifndef TARGET_OS_WATCH
+#define TARGET_OS_WATCH 0
+#endif
+
+#ifdef DEBUG
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...) {}
+#endif

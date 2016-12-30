@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder
+END
+ZXPDF417DetectionResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResult.m
+END
+ZXPDF417BoundingBox.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BoundingBox.m
+END
+ZXPDF417DecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DecodedBitStreamParser.m
+END
+ZXPDF417DetectionResultRowIndicatorColumn.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultRowIndicatorColumn.m
+END
+ZXPDF417ScanningDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417ScanningDecoder.h
+END
+ZXPDF417ScanningDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417ScanningDecoder.m
+END
+ZXPDF417DetectionResultColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultColumn.h
+END
+ZXPDF417BarcodeValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeValue.h
+END
+ZXPDF417CodewordDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417CodewordDecoder.h
+END
+ZXPDF417BarcodeMetadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeMetadata.h
+END
+ZXPDF417DetectionResultColumn.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultColumn.m
+END
+ZXPDF417BarcodeValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeValue.m
+END
+ZXPDF417CodewordDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417CodewordDecoder.m
+END
+ZXPDF417BarcodeMetadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeMetadata.m
+END
+ZXPDF417Codeword.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417Codeword.h
+END
+ZXPDF417Codeword.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417Codeword.m
+END
+ZXPDF417DetectionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResult.h
+END
+ZXPDF417BoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BoundingBox.h
+END
+ZXPDF417DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DecodedBitStreamParser.h
+END
+ZXPDF417DetectionResultRowIndicatorColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultRowIndicatorColumn.h
+END

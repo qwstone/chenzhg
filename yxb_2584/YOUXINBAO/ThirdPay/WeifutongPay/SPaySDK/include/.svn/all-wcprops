@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include
+END
+SPayClientXMLWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientXMLWriter.h
+END
+SPayClientPayDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientPayDetailModel.h
+END
+SPayClientReverseScanPayDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientReverseScanPayDetailModel.h
+END
+SPayClientPayAppPayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientPayAppPayManager.h
+END
+SPBaseModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPBaseModel.h
+END
+SPayClientPaySuccessModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientPaySuccessModel.h
+END
+SPayClientWapPayDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientWapPayDetailModel.h
+END
+SPayClientConstEnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientConstEnum.h
+END
+SPayClientHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientHeaders.h
+END
+SPayClientPayStateModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientPayStateModel.h
+END
+SPayClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClient.h
+END
+SPayClientWechatConfigModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientWechatConfigModel.h
+END
+SPayClientPayHelpModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientPayHelpModel.h
+END
+SPayClientAlipayConfigModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientAlipayConfigModel.h
+END
+SPayClientPaySuccessDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientPaySuccessDetailModel.h
+END
+SPayClientQQConfigModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/SPayClientQQConfigModel.h
+END
+NSDictionary+SPayUtilsExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/NSDictionary+SPayUtilsExtras.h
+END
+NSString+SPayUtilsExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/yxb_ios/!svn/ver/3238/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/ThirdPay/WeifutongPay/SPaySDK/include/NSString+SPayUtilsExtras.h
+END

@@ -1,0 +1,1301 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/yxb_ios/!svn/ver/3400/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass
+END
+LoanFundDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3383/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanFundDetail.h
+END
+TFriendRelation.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFriendRelation.h
+END
+GatheringRecordDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GatheringRecordDetail.h
+END
+StudentCerInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/StudentCerInfo.h
+END
+TInstallmentLoan.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TInstallmentLoan.m
+END
+LoanFundDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3383/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanFundDetail.m
+END
+TFriendRelation.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFriendRelation.m
+END
+GatheringRecordDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GatheringRecordDetail.m
+END
+MyAssetListItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/3142/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/MyAssetListItem.h
+END
+StudentCerInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/StudentCerInfo.m
+END
+MyAssetListItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/3142/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/MyAssetListItem.m
+END
+NSSkyArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/NSSkyArray.h
+END
+GatheringRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GatheringRecord.h
+END
+TActivityMember.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityMember.h
+END
+NSSkyArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/3092/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/NSSkyArray.m
+END
+GatheringRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GatheringRecord.m
+END
+TActivityMember.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityMember.m
+END
+ProfitListItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitListItem.h
+END
+FundDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FundDetail.h
+END
+ProfitListItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitListItem.m
+END
+CrowdfundingData.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CrowdfundingData.h
+END
+FundDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FundDetail.m
+END
+HelpPayment.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/HelpPayment.h
+END
+CrowdfundingData.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CrowdfundingData.m
+END
+LoanCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanCenter.h
+END
+HelpPayment.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/HelpPayment.m
+END
+GoodsResume.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GoodsResume.h
+END
+ProfitManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitManager.h
+END
+AAActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AAActivity.h
+END
+LoanCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanCenter.m
+END
+GoodsResume.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GoodsResume.m
+END
+PersonCenterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/PersonCenterManager.h
+END
+AAActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AAActivity.m
+END
+ProfitManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitManager.m
+END
+MyAssetListDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3142/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/MyAssetListDetail.h
+END
+PersonCenterManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/PersonCenterManager.m
+END
+MyAssetListDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3142/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/MyAssetListDetail.m
+END
+TResultSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TResultSet.h
+END
+AppCertificationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AppCertificationManager.h
+END
+TResultSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TResultSet.m
+END
+AppCertificationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AppCertificationManager.m
+END
+CommerceOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceOrder.h
+END
+CommerceOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceOrder.m
+END
+CLoan.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CLoan.h
+END
+CommerceOrderV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceOrderV2.h
+END
+YXBLoanInfoDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3395/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/YXBLoanInfoDetails.h
+END
+CLoan.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CLoan.m
+END
+Payment_aaLoanPay.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Payment_aaLoanPay.h
+END
+CgLoan.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CgLoan.h
+END
+ActivityComplaint.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ActivityComplaint.h
+END
+CommerceOrderV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceOrderV2.m
+END
+YXBLoanInfoDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2728/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/YXBLoanInfoDetails.m
+END
+AssetParticipation.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3141/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AssetParticipation.h
+END
+Payment_aaLoanPay.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Payment_aaLoanPay.m
+END
+WhiteCollarCerSelect.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/WhiteCollarCerSelect.h
+END
+CgLoan.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CgLoan.m
+END
+ActivityComplaint.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ActivityComplaint.m
+END
+CommerceIndexPageData.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceIndexPageData.h
+END
+LoanMoreInfoDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2675/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanMoreInfoDetail.h
+END
+AssetParticipation.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3141/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AssetParticipation.m
+END
+TLoanWithLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanWithLog.h
+END
+WhiteCollarCerSelect.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/WhiteCollarCerSelect.m
+END
+CommerceIndexPageData.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceIndexPageData.m
+END
+TLoanWithLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanWithLog.m
+END
+TActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivity.h
+END
+LoanMoreInfoDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2657/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanMoreInfoDetail.m
+END
+TLoanIndexInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanIndexInfo.h
+END
+TFriendRelationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yxb_ios/!svn/ver/3065/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFriendRelationManager.h
+END
+TActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivity.m
+END
+LoanCenterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanCenterManager.h
+END
+PreserveCer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2972/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/PreserveCer.h
+END
+TLoanIndexInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanIndexInfo.m
+END
+TLoanCenterBrief.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanCenterBrief.h
+END
+TFriendRelationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yxb_ios/!svn/ver/3065/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFriendRelationManager.m
+END
+TCreditCenterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TCreditCenterManager.h
+END
+LoanCenterManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanCenterManager.m
+END
+PreserveCer.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2972/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/PreserveCer.m
+END
+TLoanCenterBrief.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanCenterBrief.m
+END
+LoanCertificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/3053/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanCertificate.h
+END
+AALoanUserMemberInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AALoanUserMemberInfo.h
+END
+TCreditCenterManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TCreditCenterManager.m
+END
+LoanCertificate.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2675/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanCertificate.m
+END
+TChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TChat.h
+END
+AALoanUserMemberInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AALoanUserMemberInfo.m
+END
+TUnreadFlagCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TUnreadFlagCount.h
+END
+SmilePromptManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/SmilePromptManager.h
+END
+TChat.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TChat.m
+END
+CommerceOrderDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceOrderDetail.h
+END
+TUnreadFlagCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TUnreadFlagCount.m
+END
+SmilePromptManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/SmilePromptManager.m
+END
+YXBLoanChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2695/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/YXBLoanChat.h
+END
+ActivityOperate.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ActivityOperate.h
+END
+FinanceBuyData.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3191/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FinanceBuyData.h
+END
+TLoanCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanCenter.h
+END
+CommerceOrderDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceOrderDetail.m
+END
+CrowdfundingPerson.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CrowdfundingPerson.h
+END
+YXBLoanChat.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2695/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/YXBLoanChat.m
+END
+ActivityOperate.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ActivityOperate.m
+END
+FinanceBuyData.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3158/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FinanceBuyData.m
+END
+TLoanCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanCenter.m
+END
+CrowdfundingPerson.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CrowdfundingPerson.m
+END
+CommerceDetailV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceDetailV2.h
+END
+TActivityBrief.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityBrief.h
+END
+CommercePayment.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommercePayment.h
+END
+CommerceDetailV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceDetailV2.m
+END
+TActivityBrief.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityBrief.m
+END
+CommercePayment.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommercePayment.m
+END
+CommerceManagerV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceManagerV2.h
+END
+TFundDetailManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFundDetailManager.h
+END
+TChatManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TChatManager.h
+END
+GatheringRecordFriend.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GatheringRecordFriend.h
+END
+UserBriefInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/UserBriefInfo.h
+END
+CommerceManagerV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceManagerV2.m
+END
+FlashSale.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FlashSale.h
+END
+TFundDetailManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFundDetailManager.m
+END
+TChatManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TChatManager.m
+END
+TActivityMemberManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityMemberManager.h
+END
+GatheringRecordFriend.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GatheringRecordFriend.m
+END
+TFeedbackLogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFeedbackLogManager.h
+END
+CreditCenterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CreditCenterManager.h
+END
+UserBriefInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/UserBriefInfo.m
+END
+FlashSale.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FlashSale.m
+END
+TLoanIndexPersonRank.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanIndexPersonRank.h
+END
+TActivityMemberManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityMemberManager.m
+END
+TCompensationNote.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TCompensationNote.h
+END
+TFeedbackLogManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFeedbackLogManager.m
+END
+Payment_payFinance.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3166/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Payment_payFinance.h
+END
+CreditCenterManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CreditCenterManager.m
+END
+TLoanIndexPersonRank.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanIndexPersonRank.m
+END
+CreditCenterManagerV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/3303/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CreditCenterManagerV2.h
+END
+TCompensationNote.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TCompensationNote.m
+END
+Payment_payFinance.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3166/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Payment_payFinance.m
+END
+CreditCenterManagerV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/3303/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CreditCenterManagerV2.m
+END
+WhiteCollarCerInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/WhiteCollarCerInfo.h
+END
+OpLoan.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/OpLoan.h
+END
+LoanMoreInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3388/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanMoreInfo.h
+END
+WhiteCollarCerInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/WhiteCollarCerInfo.m
+END
+SmilePromptItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/SmilePromptItem.h
+END
+LoanManagerV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanManagerV2.h
+END
+OpLoan.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/OpLoan.m
+END
+LoanMoreInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3388/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanMoreInfo.m
+END
+SmilePromptItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/SmilePromptItem.m
+END
+LoanManagerV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanManagerV2.m
+END
+FinanceReturn.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/3142/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FinanceReturn.h
+END
+StagesInterest.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/StagesInterest.h
+END
+FinanceReturn.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/3142/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FinanceReturn.m
+END
+StagesInterest.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/StagesInterest.m
+END
+UserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/3400/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/UserManager.h
+END
+CommerceDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceDetail.h
+END
+UserManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/3400/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/UserManager.m
+END
+CommerceBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceBanner.h
+END
+ProfitDetailOfMonth.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitDetailOfMonth.h
+END
+CommerceDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceDetail.m
+END
+TFundDetailItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFundDetailItem.h
+END
+ActivityMember.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ActivityMember.h
+END
+CommerceBanner.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceBanner.m
+END
+CommerceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceManager.h
+END
+ProfitDetailOfMonth.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitDetailOfMonth.m
+END
+CommerceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceList.h
+END
+YXBLoanDialogue.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/3390/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/YXBLoanDialogue.h
+END
+TFundDetailItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TFundDetailItem.m
+END
+Loan.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Loan.h
+END
+ActivityMember.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ActivityMember.m
+END
+OverdueModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/OverdueModel.h
+END
+CommerceHomePageData.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceHomePageData.h
+END
+CommerceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceManager.m
+END
+TPictureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TPictureManager.h
+END
+CommerceList.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceList.m
+END
+YXBLoanDialogue.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2695/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/YXBLoanDialogue.m
+END
+Loan.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Loan.m
+END
+OverdueModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/OverdueModel.m
+END
+CommerceHomePageData.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/CommerceHomePageData.m
+END
+TCreditCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TCreditCenter.h
+END
+TPictureManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TPictureManager.m
+END
+Payment_loanPayPartLoan.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yxb_ios/!svn/ver/3395/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Payment_loanPayPartLoan.h
+END
+LoanListItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanListItem.h
+END
+TCreditCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TCreditCenter.m
+END
+Payment_loanPayPartLoan.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/yxb_ios/!svn/ver/3385/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/Payment_loanPayPartLoan.m
+END
+GuaranteeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GuaranteeManager.h
+END
+LoanListItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2657/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/LoanListItem.m
+END
+AppBlankNoteManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AppBlankNoteManager.h
+END
+GuaranteeManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GuaranteeManager.m
+END
+TActivityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityManager.h
+END
+AAManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AAManager.h
+END
+AppBlankNoteManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AppBlankNoteManager.m
+END
+AALoanDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AALoanDetail.h
+END
+TLoanLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanLog.h
+END
+TActivityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityManager.m
+END
+AAManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AAManager.m
+END
+AALoanDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AALoanDetail.m
+END
+TLoanLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanLog.m
+END
+AssetDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3286/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AssetDetails.h
+END
+FinancialManagerV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3289/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FinancialManagerV2.h
+END
+AssetDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/3146/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AssetDetails.m
+END
+AALoan.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AALoan.h
+END
+FinancialManagerV2.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/3289/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/FinancialManagerV2.m
+END
+AALoan.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AALoan.m
+END
+GuaranteeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GuaranteeData.h
+END
+AverageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AverageManager.h
+END
+ProfitHomeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitHomeData.h
+END
+GuaranteeRequestListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GuaranteeRequestListData.h
+END
+GuaranteeData.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GuaranteeData.m
+END
+AverageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/AverageManager.m
+END
+ProfitHomeData.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/ProfitHomeData.m
+END
+User.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/3177/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/User.h
+END
+GuaranteeRequestListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/GuaranteeRequestListData.m
+END
+RealnameAuthenticationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/RealnameAuthenticationManager.h
+END
+StudentCerSelect.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/StudentCerSelect.h
+END
+TLoanOfAAActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/3019/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanOfAAActivity.h
+END
+TActivityBriefManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityBriefManager.h
+END
+User.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/User.m
+END
+RealnameAuthenticationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/RealnameAuthenticationManager.m
+END
+StudentCerSelect.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/StudentCerSelect.m
+END
+TLoanOfAAActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TLoanOfAAActivity.m
+END
+TActivityBriefManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TActivityBriefManager.m
+END
+TInstallmentLoan.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Net/interfacesClass/TInstallmentLoan.h
+END

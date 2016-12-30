@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/yxb_ios/!svn/ver/3370/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan
+END
+RepaymentNoteData.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/RepaymentNoteData.m
+END
+DebtScheduleViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleViewController.h
+END
+DebtScheduleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleCell.h
+END
+ISendLoanScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/3022/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendLoanScrollView.m
+END
+MyTuhaoLoanListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/MyTuhaoLoanListViewController.h
+END
+TuhaoLoanSetDetailTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoLoanSetDetailTableViewCell.h
+END
+TuhaoAreltContentView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoAreltContentView.h
+END
+DebtScheduleViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/3022/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleViewController.m
+END
+DebtScheduleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleCell.m
+END
+DebtProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtProtocol.h
+END
+MyTuhaoLoanListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/MyTuhaoLoanListViewController.m
+END
+TuhaoLoanSetDetailTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoLoanSetDetailTableViewCell.m
+END
+TuhaoAreltContentView.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/3022/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoAreltContentView.m
+END
+DebtDetailHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailHeaderView.h
+END
+TuhaoLoanSetViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoLoanSetViewController.h
+END
+BlankNoteData.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/BlankNoteData.h
+END
+TuhaoLoanSetViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoLoanSetViewController.m
+END
+DebtDetailHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailHeaderView.m
+END
+ISendLoanViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendLoanViewController.h
+END
+BlankNoteData.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/BlankNoteData.m
+END
+DebtItemModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtItemModel.h
+END
+DebtdetailAlertContentView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtdetailAlertContentView.h
+END
+ISendLoanViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/yxb_ios/!svn/ver/3022/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendLoanViewController.m
+END
+NoteSummary.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/NoteSummary.h
+END
+DebtItemModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtItemModel.m
+END
+DebtdetailAlertContentView.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtdetailAlertContentView.m
+END
+NoteSummary.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/NoteSummary.m
+END
+ISendPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendPickerView.h
+END
+ISendPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendPickerView.m
+END
+DebtDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailViewController.h
+END
+DebtDetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailCell.h
+END
+CreateBlankNote.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/CreateBlankNote.h
+END
+DebtDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3370/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailViewController.m
+END
+CreateBlankNote.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/CreateBlankNote.m
+END
+DebtDetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailCell.m
+END
+ISendViewBg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendViewBg.h
+END
+DebtScheduleTopView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleTopView.h
+END
+DebtListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtListViewController.h
+END
+TuhaoLoanSetTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoLoanSetTableViewCell.h
+END
+DebtListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtListCell.h
+END
+DebtDetailNewViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailNewViewController.h
+END
+DebtScheduleBottomView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleBottomView.h
+END
+DebtDetailFooterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailFooterView.h
+END
+ISendViewBg.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendViewBg.m
+END
+InstallmentDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/InstallmentDetail.h
+END
+DebtScheduleTopView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleTopView.m
+END
+DebtListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtListViewController.m
+END
+TuhaoLoanSetTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/TuhaoLoanSetTableViewCell.m
+END
+DebtListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtListCell.m
+END
+DebtDetailNewViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailNewViewController.m
+END
+DebtScheduleBottomView.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtScheduleBottomView.m
+END
+DebtDetailFooterView.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtDetailFooterView.m
+END
+DebtMoneyView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtMoneyView.h
+END
+InstallmentDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/InstallmentDetail.m
+END
+SModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/SModel.h
+END
+RepaymentNoteData.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/RepaymentNoteData.h
+END
+DebtMoneyView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/DebtMoneyView.m
+END
+ISendLoanScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/ISendLoanScrollView.h
+END
+SModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/TuhaoLoan/SModel.m
+END

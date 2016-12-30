@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon
+END
+ZXGenericGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXGenericGF.h
+END
+ZXReedSolomonEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXReedSolomonEncoder.m
+END
+ZXReedSolomonDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXReedSolomonDecoder.h
+END
+ZXGenericGFPoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXGenericGFPoly.h
+END
+ZXGenericGF.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXGenericGF.m
+END
+ZXReedSolomonDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXReedSolomonDecoder.m
+END
+ZXGenericGFPoly.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXGenericGFPoly.m
+END
+ZXReedSolomonEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/reedsolomon/ZXReedSolomonEncoder.h
+END

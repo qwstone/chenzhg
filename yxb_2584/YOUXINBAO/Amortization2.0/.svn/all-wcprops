@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/yxb_ios/!svn/ver/3223/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0
+END
+AmorOrderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorOrderViewController.h
+END
+CustomProgressView.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/CustomProgressView.h
+END
+OrderDetailWebviewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderDetailWebviewCell.m
+END
+AmorOrderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorOrderViewController.m
+END
+CustomProgressView.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/CustomProgressView.m
+END
+AmorPayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorPayView.h
+END
+OrderThirdCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderThirdCell.h
+END
+OrderFourCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderFourCell.h
+END
+AmorPayView.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorPayView.m
+END
+OrderThirdCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderThirdCell.m
+END
+ZCTableViewSecondCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/ZCTableViewSecondCell.h
+END
+OrderFourCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderFourCell.m
+END
+ZCTableViewSecondCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/ZCTableViewSecondCell.m
+END
+ZCTableViewOneCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/ZCTableViewOneCell.h
+END
+OrderFiveCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderFiveCell.h
+END
+ZCTableViewOneCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/3223/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/ZCTableViewOneCell.m
+END
+OrderFiveCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderFiveCell.m
+END
+OrderTwoSecond.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderTwoSecond.h
+END
+PayScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/PayScrollView.h
+END
+AmorPayButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorPayButton.h
+END
+OrderTwoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderTwoCell.h
+END
+OrderTwoSecond.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderTwoSecond.m
+END
+PaydetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/PaydetailView.h
+END
+PayScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/PayScrollView.m
+END
+OrderDetailPayCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderDetailPayCell.h
+END
+AmorPayCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorPayCell.h
+END
+AmorPayButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorPayButton.m
+END
+QCZhongChouDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/QCZhongChouDetailViewController.h
+END
+OrderTwoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderTwoCell.m
+END
+PaydetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/PaydetailView.m
+END
+AmorOrderDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorOrderDetailViewController.h
+END
+OrderOneCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderOneCell.h
+END
+OrderDetailPayCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderDetailPayCell.m
+END
+AmorPayCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorPayCell.m
+END
+QCZhongChouDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/QCZhongChouDetailViewController.m
+END
+AmorOrderDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/yxb_ios/!svn/ver/2980/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorOrderDetailViewController.m
+END
+OrderOneCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderOneCell.m
+END
+GuaranteeStages.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/GuaranteeStages.h
+END
+AmorConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/AmorConfig.h
+END
+OrderDetailWebviewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/OrderDetailWebviewCell.h
+END
+GuaranteeStages.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Amortization2.0/GuaranteeStages.m
+END

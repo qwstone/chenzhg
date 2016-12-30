@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1125A1F4-56B1-47A0-88AD-E2F05E420F0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YOUXINBAO</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1c9c59af-f5d1-2645-8119-b1e18bf860f6++5613</key>
+		<string>https://60.195.254.21/svn/yxb_ios/trunk/YOUXINBAO_new</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YOUXINBAO.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1c9c59af-f5d1-2645-8119-b1e18bf860f6++5613</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1c9c59af-f5d1-2645-8119-b1e18bf860f6++5613</key>
+		<string>https://60.195.254.21/svn/yxb_ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://60.195.254.21/svn/yxb_ios/trunk/YOUXINBAO_new/YOUXINBAO.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1c9c59af-f5d1-2645-8119-b1e18bf860f6++5613</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1c9c59af-f5d1-2645-8119-b1e18bf860f6++5613</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YOUXINBAO_new</string>
+		</dict>
+	</array>
+</dict>
+</plist>

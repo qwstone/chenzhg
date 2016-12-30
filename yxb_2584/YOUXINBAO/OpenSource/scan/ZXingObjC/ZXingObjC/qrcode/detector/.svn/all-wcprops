@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector
+END
+ZXQRCodeAlignmentPatternFinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPatternFinder.m
+END
+ZXQRCodeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeDetector.h
+END
+ZXQRCodeFinderPattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPattern.m
+END
+ZXQRCodeAlignmentPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPattern.h
+END
+ZXQRCodeFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternFinder.h
+END
+ZXQRCodeDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeDetector.m
+END
+ZXQRCodeAlignmentPattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPattern.m
+END
+ZXQRCodeFinderPatternInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternInfo.h
+END
+ZXQRCodeFinderPatternFinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternFinder.m
+END
+ZXQRCodeAlignmentPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPatternFinder.h
+END
+ZXQRCodeFinderPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPattern.h
+END
+ZXQRCodeFinderPatternInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternInfo.m
+END

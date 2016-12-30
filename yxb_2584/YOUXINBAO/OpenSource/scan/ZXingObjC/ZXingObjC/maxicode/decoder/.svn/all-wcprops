@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder
+END
+ZXMaxiCodeDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecodedBitStreamParser.h
+END
+ZXMaxiCodeBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeBitMatrixParser.h
+END
+ZXMaxiCodeDecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecodedBitStreamParser.m
+END
+ZXMaxiCodeBitMatrixParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeBitMatrixParser.m
+END
+ZXMaxiCodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecoder.h
+END
+ZXMaxiCodeDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecoder.m
+END

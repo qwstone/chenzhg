@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder
+END
+ZXQRCodeErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeErrorCorrectionLevel.h
+END
+ZXQRCodeDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoder.m
+END
+ZXQRCodeDecoderMetaData.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoderMetaData.m
+END
+ZXQRCodeErrorCorrectionLevel.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeErrorCorrectionLevel.m
+END
+ZXQRCodeDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecodedBitStreamParser.h
+END
+ZXQRCodeBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeBitMatrixParser.h
+END
+ZXQRCodeMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeMode.h
+END
+ZXQRCodeDataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataBlock.h
+END
+ZXQRCodeDecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecodedBitStreamParser.m
+END
+ZXQRCodeVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeVersion.h
+END
+ZXQRCodeBitMatrixParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeBitMatrixParser.m
+END
+ZXQRCodeDataMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataMask.h
+END
+ZXQRCodeMode.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeMode.m
+END
+ZXQRCodeDataBlock.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataBlock.m
+END
+ZXQRCodeVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeVersion.m
+END
+ZXQRCodeDataMask.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataMask.m
+END
+ZXQRCodeFormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeFormatInformation.h
+END
+ZXQRCodeFormatInformation.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeFormatInformation.m
+END
+ZXQRCodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoder.h
+END
+ZXQRCodeDecoderMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoderMetaData.h
+END

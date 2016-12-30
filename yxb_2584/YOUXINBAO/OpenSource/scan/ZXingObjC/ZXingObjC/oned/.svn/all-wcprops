@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned
+END
+ZXCode128Writer.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode128Writer.m
+END
+ZXOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXOneDReader.h
+END
+ZXUPCEANWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANWriter.h
+END
+ZXCode39Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode39Reader.h
+END
+ZXCode93Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode93Reader.h
+END
+ZXITFReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXITFReader.m
+END
+ZXUPCEANExtensionSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANExtensionSupport.m
+END
+ZXUPCAReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCAReader.h
+END
+ZXOneDReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXOneDReader.m
+END
+ZXUPCEANWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANWriter.m
+END
+ZXEAN8Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN8Reader.h
+END
+ZXCodaBarReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCodaBarReader.h
+END
+ZXCode39Reader.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode39Reader.m
+END
+ZXCode93Reader.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode93Reader.m
+END
+ZXITFWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXITFWriter.h
+END
+ZXUPCEReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEReader.h
+END
+ZXUPCAReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCAReader.m
+END
+ZXCode39Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode39Writer.h
+END
+ZXCodaBarReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCodaBarReader.m
+END
+ZXEAN8Reader.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN8Reader.m
+END
+ZXUPCEReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEReader.m
+END
+ZXITFWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXITFWriter.m
+END
+ZXUPCAWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCAWriter.h
+END
+ZXUPCEANExtension2Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANExtension2Support.h
+END
+ZXCode39Writer.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode39Writer.m
+END
+ZXCodaBarWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCodaBarWriter.h
+END
+ZXEAN8Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN8Writer.h
+END
+ZXUPCAWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCAWriter.m
+END
+ZXEAN13Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN13Reader.h
+END
+ZXUPCEANExtension2Support.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANExtension2Support.m
+END
+ZXCodaBarWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCodaBarWriter.m
+END
+ZXEAN8Writer.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN8Writer.m
+END
+ZXEAN13Reader.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN13Reader.m
+END
+ZXEAN13Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN13Writer.h
+END
+ZXEAN13Writer.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEAN13Writer.m
+END
+ZXingObjCOneD.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXingObjCOneD.h
+END
+ZXMultiFormatUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXMultiFormatUPCEANReader.h
+END
+ZXEANManufacturerOrgSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEANManufacturerOrgSupport.h
+END
+ZXMultiFormatUPCEANReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXMultiFormatUPCEANReader.m
+END
+ZXCode128Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode128Reader.h
+END
+ZXEANManufacturerOrgSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXEANManufacturerOrgSupport.m
+END
+ZXUPCEANExtension5Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANExtension5Support.h
+END
+ZXMultiFormatOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXMultiFormatOneDReader.h
+END
+ZXOneDimensionalCodeWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXOneDimensionalCodeWriter.h
+END
+ZXCode128Reader.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode128Reader.m
+END
+ZXUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANReader.h
+END
+ZXUPCEANExtension5Support.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANExtension5Support.m
+END
+ZXMultiFormatOneDReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXMultiFormatOneDReader.m
+END
+ZXOneDimensionalCodeWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXOneDimensionalCodeWriter.m
+END
+ZXCode128Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXCode128Writer.h
+END
+ZXUPCEANReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANReader.m
+END
+ZXITFReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXITFReader.h
+END
+ZXUPCEANExtensionSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/oned/ZXUPCEANExtensionSupport.h
+END

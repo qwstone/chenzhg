@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AAMapViewController">
+            <connections>
+                <outlet property="alphaView" destination="Inx-1D-bMU" id="zVB-aO-hcE"/>
+                <outlet property="mapView" destination="AQu-nN-k8C" id="EDl-4M-oWu"/>
+                <outlet property="searchBar" destination="wsR-WF-HfA" id="q1u-ze-6Ib"/>
+                <outlet property="searchResult" destination="eWO-cE-UbY" id="7gV-BL-ojt"/>
+                <outlet property="tableView" destination="BLk-IO-ccd" id="9S1-rO-bXM"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="64" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <searchBar contentMode="redraw" placeholder="搜索关键字" translatesAutoresizingMaskIntoConstraints="NO" id="wsR-WF-HfA">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                    <textInputTraits key="textInputTraits" returnKeyType="search"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="px4-lL-EcY"/>
+                    </connections>
+                </searchBar>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AQu-nN-k8C" customClass="BMKMapView">
+                    <rect key="frame" x="0.0" y="44" width="375" height="250"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="250" id="Gqk-30-sG1"/>
+                    </constraints>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsVerticalScrollIndicator="NO" style="plain" separatorStyle="default" allowsSelectionDuringEditing="YES" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="BLk-IO-ccd">
+                    <rect key="frame" x="0.0" y="294" width="375" height="373"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="9Va-lF-NMj"/>
+                        <outlet property="delegate" destination="-1" id="eOi-Cu-Nxm"/>
+                    </connections>
+                </tableView>
+                <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Inx-1D-bMU">
+                    <rect key="frame" x="0.0" y="44" width="375" height="623"/>
+                    <subviews>
+                        <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="eWO-cE-UbY">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="623"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <color key="sectionIndexBackgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <outlet property="dataSource" destination="-1" id="YRT-Ny-09Y"/>
+                                <outlet property="delegate" destination="-1" id="Jl2-qp-tKD"/>
+                            </connections>
+                        </tableView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <gestureRecognizers/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="eWO-cE-UbY" secondAttribute="trailing" id="2Dq-00-WQV"/>
+                        <constraint firstItem="eWO-cE-UbY" firstAttribute="leading" secondItem="Inx-1D-bMU" secondAttribute="leading" id="RST-5B-oi8"/>
+                        <constraint firstItem="eWO-cE-UbY" firstAttribute="top" secondItem="Inx-1D-bMU" secondAttribute="top" id="RYg-E5-LNr"/>
+                        <constraint firstAttribute="bottom" secondItem="eWO-cE-UbY" secondAttribute="bottom" id="kcO-mv-sbA"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Inx-1D-bMU" firstAttribute="top" secondItem="wsR-WF-HfA" secondAttribute="bottom" id="3gH-NQ-4ZD"/>
+                <constraint firstAttribute="trailing" secondItem="Inx-1D-bMU" secondAttribute="trailing" id="4qz-Ab-xwp"/>
+                <constraint firstItem="BLk-IO-ccd" firstAttribute="top" secondItem="AQu-nN-k8C" secondAttribute="bottom" id="7np-7C-klk"/>
+                <constraint firstAttribute="trailing" secondItem="wsR-WF-HfA" secondAttribute="trailing" id="9pM-yv-Qv9"/>
+                <constraint firstItem="AQu-nN-k8C" firstAttribute="top" secondItem="wsR-WF-HfA" secondAttribute="bottom" id="ARr-bh-Gtx"/>
+                <constraint firstItem="Inx-1D-bMU" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="FQk-vu-mwN"/>
+                <constraint firstAttribute="trailing" secondItem="BLk-IO-ccd" secondAttribute="trailing" id="Fd4-Xk-gbl"/>
+                <constraint firstItem="AQu-nN-k8C" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="IeZ-gk-8uM"/>
+                <constraint firstItem="wsR-WF-HfA" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="NOF-Zn-bML"/>
+                <constraint firstItem="wsR-WF-HfA" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="P9Q-nZ-P6O"/>
+                <constraint firstAttribute="bottom" secondItem="Inx-1D-bMU" secondAttribute="bottom" id="W4f-ul-1NZ"/>
+                <constraint firstItem="BLk-IO-ccd" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="YeU-g3-wia"/>
+                <constraint firstAttribute="trailing" secondItem="AQu-nN-k8C" secondAttribute="trailing" id="bOs-1L-g4v"/>
+                <constraint firstAttribute="bottom" secondItem="BLk-IO-ccd" secondAttribute="bottom" id="nF1-XS-TCV"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+            <point key="canvasLocation" x="520.5" y="281.5"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector
+END
+ZXMathUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector/ZXMathUtils.h
+END
+ZXMonochromeRectangleDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector/ZXMonochromeRectangleDetector.m
+END
+ZXMathUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector/ZXMathUtils.m
+END
+ZXWhiteRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector/ZXWhiteRectangleDetector.h
+END
+ZXWhiteRectangleDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector/ZXWhiteRectangleDetector.m
+END
+ZXMonochromeRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/common/detector/ZXMonochromeRectangleDetector.h
+END

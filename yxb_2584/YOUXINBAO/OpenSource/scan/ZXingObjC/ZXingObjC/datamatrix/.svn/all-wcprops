@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/datamatrix
+END
+ZXingObjCDataMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/datamatrix/ZXingObjCDataMatrix.h
+END
+ZXDataMatrixWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/datamatrix/ZXDataMatrixWriter.h
+END
+ZXDataMatrixWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/datamatrix/ZXDataMatrixWriter.m
+END
+ZXDataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/datamatrix/ZXDataMatrixReader.h
+END
+ZXDataMatrixReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/OpenSource/scan/ZXingObjC/ZXingObjC/datamatrix/ZXDataMatrixReader.m
+END

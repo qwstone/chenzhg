@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/FMDeviceManager_v2.1.1SDK
+END
+FMDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/FMDeviceManager_v2.1.1SDK/FMDeviceManager.h
+END
+libFMDeviceManager.a
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/FMDeviceManager_v2.1.1SDK/libFMDeviceManager.a
+END
+libFMDeviceManager_without_IDFA.a
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/FMDeviceManager_v2.1.1SDK/libFMDeviceManager_without_IDFA.a
+END

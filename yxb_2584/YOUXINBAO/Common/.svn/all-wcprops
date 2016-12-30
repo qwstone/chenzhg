@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/yxb_ios/!svn/ver/3376/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common
+END
+QCBaseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseCell.h
+END
+Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/Device.h
+END
+QCTimerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCTimerManager.h
+END
+YXBTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/3065/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/YXBTool.h
+END
+QCBaseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseCell.m
+END
+Device.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/Device.m
+END
+QCTimerManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCTimerManager.m
+END
+YXBTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/3369/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/YXBTool.m
+END
+KVNProgressView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/3075/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/KVNProgressView.xib
+END
+TwoCreditPopView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2604/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/TwoCreditPopView.h
+END
+TwoCreditPopView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/yxb_ios/!svn/ver/2615/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/TwoCreditPopView.m
+END
+QCUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/3376/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCUtils.h
+END
+UIAlertView+Block.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UIAlertView+Block.h
+END
+YXBProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/YXBProgress.h
+END
+UILabel+CustomPackaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/3062/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UILabel+CustomPackaging.h
+END
+QCUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/3369/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCUtils.m
+END
+UIAlertView+Block.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UIAlertView+Block.m
+END
+YXBProgress.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/YXBProgress.m
+END
+UILabel+CustomPackaging.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/yxb_ios/!svn/ver/3062/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UILabel+CustomPackaging.m
+END
+CPBTimerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/CPBTimerManager.h
+END
+QCHomeDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2732/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCHomeDataManager.h
+END
+QCDeviceModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCDeviceModel.h
+END
+QCViewConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCViewConst.h
+END
+CPBTimerManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/CPBTimerManager.m
+END
+QCHomeDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yxb_ios/!svn/ver/2732/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCHomeDataManager.m
+END
+QCDeviceModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCDeviceModel.m
+END
+CreditPopView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/CreditPopView.h
+END
+CreditPopView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yxb_ios/!svn/ver/3355/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/CreditPopView.m
+END
+QCBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2712/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseViewController.h
+END
+QCBaseTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseTableView.h
+END
+QCBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/3332/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseViewController.m
+END
+PayJsonTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/PayJsonTools.h
+END
+CreditPopViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2604/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/CreditPopViewModel.h
+END
+QCBaseTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseTableView.m
+END
+QCBaseTextField.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseTextField.h
+END
+PayJsonTools.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/PayJsonTools.m
+END
+QCConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/3369/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCConst.h
+END
+CreditPopViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/yxb_ios/!svn/ver/2604/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/CreditPopViewModel.m
+END
+QCBaseTextField.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCBaseTextField.m
+END
+QCDeviceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCDeviceManager.h
+END
+UserState.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UserState.h
+END
+QCPopupView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCPopupView.h
+END
+QCDeviceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCDeviceManager.m
+END
+KVNProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/KVNProgress.h
+END
+UserState.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UserState.m
+END
+RTLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/RTLabel.h
+END
+QCConfigTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCConfigTool.h
+END
+QCPopupView.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCPopupView.m
+END
+KVNProgress.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2763/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/KVNProgress.m
+END
+RTLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/yxb_ios/!svn/ver/3369/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/RTLabel.m
+END
+QCConfigTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/yxb_ios/!svn/ver/3369/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCConfigTool.m
+END
+QCUserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCUserManager.h
+END
+QCGetDeviceInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCGetDeviceInfo.h
+END
+QCUserManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yxb_ios/!svn/ver/2954/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCUserManager.m
+END
+QCGetDeviceInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCGetDeviceInfo.m
+END
+UIView+ViewFrameGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UIView+ViewFrameGeometry.h
+END
+UIView+ViewFrameGeometry.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/UIView+ViewFrameGeometry.m
+END
+AttributeStringModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/AttributeStringModel.h
+END
+NSDate+Helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/NSDate+Helpers.h
+END
+AttributeStringModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/AttributeStringModel.m
+END
+NSDate+Helpers.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/NSDate+Helpers.m
+END
+QCUserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2585/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCUserModel.h
+END
+QCUserModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/yxb_ios/!svn/ver/2732/trunk/YOUXINBAO_new/yxb_2584/YOUXINBAO/Common/QCUserModel.m
+END

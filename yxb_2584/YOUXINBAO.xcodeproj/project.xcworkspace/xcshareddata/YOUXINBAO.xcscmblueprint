@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1c9c59af-f5d1-2645-8119-b1e18bf860f6++3594",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1c9c59af-f5d1-2645-8119-b1e18bf860f6++3594" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1c9c59af-f5d1-2645-8119-b1e18bf860f6++3594" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1125A1F4-56B1-47A0-88AD-E2F05E420F0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1c9c59af-f5d1-2645-8119-b1e18bf860f6++3594" : "yxb_2584\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YOUXINBAO",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YOUXINBAO.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/60.195.254.34\/svn\/yxb_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1c9c59af-f5d1-2645-8119-b1e18bf860f6++3594"
+    }
+  ]
+}
